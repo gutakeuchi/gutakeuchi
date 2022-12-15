@@ -20,12 +20,12 @@
   
    <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: gustavo.takeuchi87@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="39" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/gustavo-takeuchi-8a77a3205/">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/gutakeuchi/">
-      <img width="25" src="instagram.png">
+      <img width="40" src="instagram.png">
     </a>
 </div>
