@@ -23,7 +23,7 @@
       <img width="39" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/gustavo-takeuchi-8a77a3205/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedin.gif">
     </a>
     <a href = "https://www.instagram.com/gutakeuchi/">
       <img width="40" src="instagram.png">
