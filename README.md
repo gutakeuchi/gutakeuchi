@@ -1,4 +1,4 @@
-### Fala dev´s, Gustavo aqui!
+### Hey guys! My name is Gustavo :p
 
 <div>
   
@@ -9,14 +9,14 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Tecnologias</h1>
+    <h1 align="center">Technologies</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height= "30" width= "40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    </div>
   
-   <h1 align="center">Redes Sociais</h1>
+   <h1 align="center">Social media</h1>
     <a href = "mailto: gustavo.takeuchi87@gmail.com">
       <img width="39" src="gmail.png">
     </a>
