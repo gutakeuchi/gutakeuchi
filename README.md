@@ -17,7 +17,6 @@
     <img align="center" height= "30" width= "40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" height= "30" width= "40" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />      
     <img align="center" height= "30" width = "40" alt= "mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" height= "30" width = "40" alt= "php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img  align="center" height= "30" width = "40" alt= "git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  
 </div>
