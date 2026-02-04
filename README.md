@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gutakeuchi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutakeuchi&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gutakeuchi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutakeuchi&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div  align="center"> 
