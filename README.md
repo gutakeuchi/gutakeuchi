@@ -1,31 +1,49 @@
 <div align="center">
-  <h1 align="center"><b>Hi, I'm Gustavo 👋</b></h1>
+  <h1>Hi, I'm Gustavo 👋</h1>
+  <p>Estudante de programação em São Paulo · web e .NET</p>
+  <p>
+    <a href="mailto:gustavo.takeuchi87@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/gustavo-takeuchi-8a77a3205/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/gutakeuchi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gutakeuchi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gutakeuchi&layout=compact&langs_count=16&theme=dark"/>
-</div>
+## Sobre mim
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Technologies</h1>
-    <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="typescript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" height="30" width="40" alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" height="30" width="40" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />      
-    <img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-  
-   <h1 align="center">Social media</h1>
-    <a href = "mailto: gustavo.takeuchi87@gmail.com">
-      <img width="39" src="gmail.png">
-    </a>
-    <a href = "https://www.linkedin.com/in/gustavo-takeuchi-8a77a3205/">
-      <img width="40" src="linkedin.png">
-    </a>
-</div>
+- 🎓 Estudante de desenvolvimento de software
+- 💻 Foco em **TypeScript**, **React** e **.NET**
+- 🚀 Trabalhando em [imoveis-patricia](https://github.com/gutakeuchi/imoveis-patricia)
+- 📍 São Paulo, Brasil
+
+## Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,bootstrap,cs,dotnet,mysql,git,vite,supabase" alt="Tecnologias" />
+</p>
+
+## Estatísticas
+
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="Estatísticas do GitHub" />
+  <img height="170" src="./profile/top-langs.svg" alt="Linguagens mais usadas" />
+</p>
+
+## Projetos
+
+| Projeto | Sobre |
+| --- | --- |
+| [imoveis-patricia](https://github.com/gutakeuchi/imoveis-patricia) | App de imóveis com React, TypeScript, Vite e Supabase |
+| [SuperHeroAPI-DotNet8](https://github.com/gutakeuchi/SuperHeroAPI-DotNet8) | API em .NET 8 |
+| [social-media](https://github.com/gutakeuchi/social-media) | Rede social no estilo Twitter |
+| [todolist-nextjs](https://github.com/gutakeuchi/todolist-nextjs) | To-do list com Next.js, Node.js e MySQL |
+| [site-urban-art](https://github.com/gutakeuchi/site-urban-art) | Site em HTML5, CSS3 e Bootstrap |
+
+---
+
+<p align="center">Obrigado por visitar o perfil!</p>
