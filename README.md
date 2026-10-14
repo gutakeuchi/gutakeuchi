@@ -41,15 +41,6 @@ App de imóveis com React, TypeScript, Vite e Supabase
 **[SuperHeroAPI-DotNet8](https://github.com/gutakeuchi/SuperHeroAPI-DotNet8)**  
 API em .NET 8
 
-**[social-media](https://github.com/gutakeuchi/social-media)**  
-Rede social no estilo Twitter
-
-**[todolist-nextjs](https://github.com/gutakeuchi/todolist-nextjs)**  
-To-do list com Next.js, Node.js e MySQL
-
-**[site-urban-art](https://github.com/gutakeuchi/site-urban-art)**  
-Site em HTML5, CSS3 e Bootstrap
-
 ---
 
 <p align="center">Obrigado por visitar o perfil!</p>
