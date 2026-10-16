@@ -23,7 +23,7 @@
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,cs,dotnet, mysql,git,vite,supabase,tailwind&perline=6" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,cs,dotnet,mysql,git,vite,supabase,tailwind&perline=6" alt="Tecnologias" />
 </p>
 
 ## Estatísticas
